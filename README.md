@@ -27,3 +27,4 @@ yolo task=detect mode=val model='CONVERGED_WEIGHTS/best.pt' data="DOD-5_moderate
    2) https://www.youtube.com/watch?v=X9jt8qb_igo
 
   using the model CONVERGED_WEIGHTS/best.pt
+
