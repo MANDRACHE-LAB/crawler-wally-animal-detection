@@ -1,3 +1,5 @@
+![Presentazione standard1](https://github.com/user-attachments/assets/eedae007-dd3a-442a-ab17-933938277bcb)
+
 Files description:
 
 - CONVERGED_WEIGHTS.zip zipped folder containining the converged weights last.pt and best.pt
@@ -27,4 +29,6 @@ yolo task=detect mode=val model='CONVERGED_WEIGHTS/best.pt' data="DOD-5_moderate
    2) https://www.youtube.com/watch?v=X9jt8qb_igo
 
   using the model CONVERGED_WEIGHTS/best.pt
+
+<img width="576" height="567" alt="image" src="https://github.com/user-attachments/assets/fbe4188c-143e-410e-a983-045cfc38d8fb" />
 
